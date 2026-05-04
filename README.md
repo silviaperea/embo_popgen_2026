@@ -6,6 +6,9 @@ Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are f
 *   **UNIX:** [Shell Novice Tutorial](https://swcarpentry.github.io/shell-novice/)
 *   **PYTHON:** [Python Novice Tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
 *   **R:** [R Novice Tutorial](https://swcarpentry.github.io/r-novice-gapminder/)
-##Connections
+
+## Connections
+
 For this course we will work on the High Performance Cluster. To connect to the machine via SSH, please send us your public key.
-[Instructions on how to create your public key](EMBO_RECAS_SSH keypair.pdf)
+
+[Instructions on how to create your public key](EMBO_RECAS_SSH%20keypair.pdf)
