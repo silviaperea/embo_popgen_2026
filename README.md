@@ -4,9 +4,9 @@
 ## Prerequisites & Tutorials
 Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are fluent in all three, we strongly recommend reviewing the tutorials below before the course starts:
 
-* 🖥️ **UNIX:** [Shell Novice Tutorial](Shell Novice Tutorial)
-* 🐍 **PYTHON:** [Python Novice Tutorial](Python Novice Tutorial)
-* 📊 **R:** [R Novice Tutorial](R Novice Tutorial)
+* 🖥️ **UNIX:** [Shell Novice Tutorial](http://swcarpentry.github.io/shell-novice/)
+* 🐍 **PYTHON:** [Python Novice Tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
+* 📊 **R:** [R Novice Tutorial](http://swcarpentry.github.io/r-novice-gapminder/)
 ---
 ## Server Access & Connections
 For this course, we will work on the High Performance Cluster. To connect to the machine via SSH, please send us your public key.
@@ -57,11 +57,58 @@ Click on any poster preview to open the full PDF version.
 ---
 ### Organized by:
 
-<p align="left">
-  <img src="popgenlogo.jpg" width="350" />
-</p>
+<table style="width:100%">
+   <tr>
+     <td><img src="Logos/popgenlogo.png" alt="EMBO Course Logo" height="200" width="700"></td> 
+     <td>
+       <a href="https://twitter.com/hashtag/EMBOpopgen?src=hashtag_click">
+         <img src="Logos/tw.png" alt="Twitter/X" height="60" width="60">
+       </a>
+       <b>#EMBOpopgen</b>
+     </td>    
+   </tr>
+</table>
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="SIBE.png" width="180" /> | <img src="SIGA.jpg" width="130" /> | <img src="AGI.png" width="180" /> |
-| <img src="elixir.jpg" width="180" /> | <img src="Recas.png" width="180" /> | |
+<table width="100%">
+  <tr>
+    <td align="center">
+        <img src="Logos/embo.png" alt="EMBO" height="80" width="300">
+    </td>
+    <td width="50"></td>
+    <td align="center">
+      <a href="https://www.associazionegeneticaitaliana.it/">
+        <img src="Logos/AGI.jpeg" alt="AGI" height="100" width="300">
+      </a>
+    </td>
+    <td width="50"></td>
+    <td align="center">
+      <a href="https://elixir-europe.org/about-us/who-we-are/nodes/italy">
+        <img src="Logos/elixir.png" alt="ELIXIR" height="100" width="200">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.recas-bari.it/index.php/en/">
+        <img src="Logos/RECAS.png" alt="RECAS" height="100" width="200">
+      </a>
+    </td>
+    <td width="25"></td>
+    <td align="center">
+      <a href="https://www.sibe-iseb.it">
+        <img src="Logos/SIBE.webp" alt="SIBE" height="100" width="200">
+      </a>
+    </td>
+    <td width="25"></td>
+    <td align="center">
+      <a href="http://www.geneticagraria.it/">
+        <img src="Logos/SSIGA.png" alt="SSIGA" height="120" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.unina.it">
+        <img src="Logos/UNINA.jpg" alt="UNINA" height="120" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
