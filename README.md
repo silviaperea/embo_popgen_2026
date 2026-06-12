@@ -25,7 +25,7 @@ For this course, we will work on the High Performance Cluster. To connect to the
 | **Andrea Manica** | University of Cambridge, UK | [📁 materials](Andrea_Manica) |
 | **Sandra Oliveira** | University of Zurich, CH | [📁 materials](Sandra_Oliveira) |
 | **Marco Salvemini** | University of Naples Federico II, IT | [📁 materials](Marco_Salvemini) |
-| **Matthias Steinrücken** | The University of Chicago, US | [📄 Slides (PDF)](Matthias_Steinrucken/06_08_presentation_math_stat_popgen/math_stat_popgen.pdf?raw=true) \| [🎥 Lecture Video](https://drive.google.com/file/d/1grw7DqAc_4AcaB1fRYSBEN4YFZkfspcm/view?usp=sharing) |
+| **Matthias Steinrücken** | The University of Chicago, US | [📁 materials](Matthias_Steinrucken/06_08_presentation_math_stat_popgen) \| [🎥 Lecture Video](https://drive.google.com/file/d/1grw7DqAc_4AcaB1fRYSBEN4YFZkfspcm/view?usp=sharing) |
 | **Daniel Wegmann** | University of Fribourg, CH | [📁 materials](Daniel_Wegmann) |
 
 ## Poster Sessions
