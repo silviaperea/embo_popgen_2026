@@ -275,9 +275,10 @@ worse than before. This has two reasons:
     multiple times and comparing the final estimates and obtained
     likelihoods. While the estimates will vary, the likelihoods are not
     so dissimilar. That is in part because `fastsimcoal2` (by default)
-    only fits the polymorphic part of the SFS. It does often make sense
-    to fix one reference parameter (e.g. the current size, as we did
-    before), which ensures that only one combination is valid.
+    only fits the polymorphic part of the SFS. It may does make sense to
+    fix one reference parameter (e.g. the current size, as we did
+    before), which ensures that only one combination is valid. Or to
+    help the optimizer by setting a more narrow initial search range.
 
 2.  In addition, the Brent optimization algorithm implemented in
     `fastsimcoal2` is not the most efficient. You should see this, as
